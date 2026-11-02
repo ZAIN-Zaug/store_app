@@ -16,7 +16,7 @@ The app uses [Fake Store API](https://fakestoreapi.com) as its backend.
 ## Screenshots
 
 
-<-- <img src="screenshots/home_page.jpg" width="220"> <img src="screenshots/filter.jpg" width="220"> <img src="screenshots/update_product.jpg" width="220"> -->
+<-- <img src="Screenshots/home_page.jpg" width="220"> <img src="Screenshots/filter.jpg" width="220"> <img src="Screenshots/update_product.jpg" width="220"> -->
 
 ## Tech stack
 
